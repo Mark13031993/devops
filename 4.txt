@@ -1,2 +1,0 @@
-test file number 4 for clone test
-now its a test for diff
