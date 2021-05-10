@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(44, 155, 219);
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+img{
+    border-radius: 50%;
+}
+
+h1{
+    font-size: 562.2%;
+    margin: 0;
+    font-family: 'Sacramento', cursive;
+    
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    font-family: 'Sacramento', cursive;
+    font-size: 250%;
+}
+.top-container {
+    background-image: url("https://t3.ftcdn.net/jpg/01/96/73/54/240_F_196735434_PWReEYkrJ295Md6FU3DqV7712AL2C7gR.jpg");
+    position: relative;
+    padding-top: 100px;
+}
+.middle-container{
+    
+}
+
+
+
+.top-image{
+
+height: 100px;
+width: 100px;
+
+}
